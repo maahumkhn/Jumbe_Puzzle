@@ -1,4 +1,4 @@
-# Jumbe_Puzzle
+# Jumble_Puzzle
 Jumble Puzzle assignment for CMPE 320. Assignment description:
 
 create an ISO C++ class and its exception class (header and implementation files) to support a puzzle game. No GUI coding is required. To play the game, the user supplies a word between 3 and 10 characters in length, all lower case, and chooses a difficulty level from "easy", "medium" or "hard". These levels control the size of the puzzle, which will be a square array of 2, 3 or 4 times the size of the supplied word. Here is an example of a medium difficulty puzzle which contains the hidden word "hidden" along with row and column numbers:
